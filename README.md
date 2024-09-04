@@ -3,7 +3,7 @@
 Project Name: ReactifyIO
     Framework: React.js
     Build Tool: Vite
-    Deployment: Vercel
+    Deployment: Netflify
 
 Project Description:
     ReactifyIO is a modern web application designed to showcase your portfolio and skills. The project is powered by React.js for a dynamic user interface, and Vite ensures fast development and optimized builds. The site is structured into modular components to represent different sections of your portfolio, providing users with a seamless and interactive experience.
