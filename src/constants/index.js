@@ -2,17 +2,17 @@ import certificate1 from "../assets/certificates/certificate1.png";
 import certificate2 from "../assets/certificates/certificate2.png";
 import certificate3 from "../assets/certificates/certificate3.png";
 import certificate4 from "../assets/certificates/certificate4.png";
-import project1 from "../assets/projects/project-1.png";
-import project2 from "../assets/projects/project-2.png";
-import project3 from "../assets/projects/project-3.png";
-import project4 from "../assets/projects/project-4.png";
-import project5 from "../assets/projects/project-5.png";
-import project6 from "../assets/projects/project-6.png";
-import project7 from "../assets/projects/project-7.png";
-import project8 from "../assets/projects/project-8.png";
-import project9 from "../assets/projects/project-9.png";
-import project10 from "../assets/projects/project-10.png";
-import featured1 from "../assets/featured/featured1.png";
+import project1 from "../assets/projects/project-1.jpg";
+import project2 from "../assets/projects/project-2.jpg";
+import project3 from "../assets/projects/project-3.jpg";
+import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
+import project6 from "../assets/projects/project-6.jpg";
+import project7 from "../assets/projects/project-7.jpg";
+import project8 from "../assets/projects/project-8.jpg";
+import project9 from "../assets/projects/project-9.jpg";
+import project10 from "../assets/projects/project-10.jpg";
+import featured1 from "../assets/featured/featured1.jpg";
 
 
 export const HERO_CONTENT = `

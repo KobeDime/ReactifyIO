@@ -24,8 +24,8 @@ const Featured = () => {
             >
               <img
                 src={featured.image}
-                width={210}
-                height={220}
+                width={180}
+                height={180}
                 alt={featured.title}
                 className="mb-6 rounded-2xl"
               />
@@ -35,12 +35,12 @@ const Featured = () => {
               >
                 {featured.github && (
                   <a href={featured.github} target="_blank" rel="noopener noreferrer">
-                    <FaGithub className="text-2xl text-cyan-700 hover:text-cyan-400 transition-colors duration-300" />
+                    <FaGithub className="text-2xl text-cyan-600 hover:text-cyan-300 transition-colors duration-300" />
                   </a>
                 )}
                 {featured.youtube && (
                   <a href={featured.github} target="_blank" rel="noopener noreferrer">
-                    <FaRocket className="text-2xl text-cyan-700 hover:text-cyan-400 transition-colors duration-300" />
+                    <FaRocket className="text-2xl text-cyan-600 hover:text-cyan-300 transition-colors duration-300" />
                   </a>
                 )}
               </div>

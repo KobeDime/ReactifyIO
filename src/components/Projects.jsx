@@ -24,8 +24,8 @@ const Projects = () => {
             >
               <img
                 src={project.image}
-                width={200}
-                height={200}
+                width={180}
+                height={180}
                 alt={project.title}
                 className="mb-6 rounded-2xl"
               />
